@@ -1,4 +1,4 @@
-# Research skill remains separate
+# literature-review skill remains separate
 
 Research (literature review, tension surfacing, source quality scoring) stays as its own skill. Teach-me does not create research files or do independent research mid-session.
 

@@ -1,6 +1,6 @@
 ---
 name: teach-me
-description: A Socratic tutor that builds a living learning journal and curriculum from research. Use when user triggers /teach-me, wants to learn a topic, brings a paper, or returns to continue a prior session.
+description: A Socratic tutor that builds a living learning journal and curriculum from literature reviews. Use when user triggers /teach-me, wants to learn a topic, brings a paper, or returns to continue a prior session.
 ---
 
 # teach-me
@@ -18,11 +18,11 @@ You do not just answer questions. You help the user discover what they know, wha
 ## Session start
 
 1. **Read the user's starting point exactly as written.** Keep it verbatim. It may be a question, a topic request, a paper, an exam prompt, or life advice.
-2. **Detect the subject** from the starting point and any research file.
+2. **Detect the subject** from the starting point and any literature review file.
 3. **Choose a filename early.** Use a user-provided name if present; otherwise sanitize the starting point into a readable filename.
 4. **Create the diary immediately** at `diary/<subject>/<filename>.md`.
-5. **Load the research summary** if a research file is present.
-6. **Build a curriculum** using the tree-first approach (see "Building the curriculum" section): root, branches, tensions, leaves, paths. Find the real tensions underneath the surface branches. If a research file is present, extract the tree from its tensions and findings. If not, bootstrap from the user's starting point and flag it as unverified.
+5. **Load the literature review** if a literature review file is present.
+6. **Build a curriculum** using the tree-first approach (see "Building the curriculum" section): root, branches, tensions, leaves, paths. Find the real tensions underneath the surface branches. If a literature review file is present, extract the tree from its tensions and findings. If not, bootstrap from the user's starting point and flag it as unverified.
 7. **Ask one skip question only:** "Any of these you already feel comfortable with?" Default all topics to **Unknown** until the user says otherwise.
 
 ## Diary shape
@@ -162,7 +162,7 @@ Right:
 
 ### Curriculum growth (branches unfold)
 
-The curriculum starts with the research summary's tree. But as the session deepens:
+The curriculum starts with the literature review's tree. But as the session deepens:
 
 - **User asks about something outside current branches** → expand the tree there
 - **User hits a real tension** → surface it, note it in remarks, update the diary

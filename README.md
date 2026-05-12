@@ -8,7 +8,7 @@ Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt 
 ## It's just Two skills
 
 ```
-/research [topic|question|subject] 
+/literature-review [topic|question|subject]
 ```
 Finds the literature, consensus, and actual tensions underneath the topic. Keep records of literature reviews.
 

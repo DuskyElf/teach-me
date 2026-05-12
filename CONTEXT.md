@@ -84,5 +84,4 @@ Mode transitions are explicit: "I'm shifting to [Mode]."
 
 ## Flagged Ambiguities
 
-- "document" vs "diary" — the file is called a diary; "document" was a planned separate skill now integrated into teach-me
-- "research" vs "literature" — research file lives in `literature/` directory; "research" refers to the skill that creates it
+
