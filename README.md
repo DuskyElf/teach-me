@@ -7,12 +7,12 @@ Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt 
 ## It's just Two skills
 
 ```
-/research what creates a bluff-free README.md for a project targeted at engineers
+/research [topic|question|subject] 
 ```
 Finds the literature, consensus, and actual tensions underneath the topic. Keep records of literature reviews.
 
 ```
-/teach-me How to create friends at the garden @literature/psychology/social-intellegence-research.md
+/teach-me [topic|question] [research-paper|article|literature-review-file]
 ```
 Starts a Socratic session which grills you through your own understanding and knowledge gaps and forces you to think the answers yourself.
 
