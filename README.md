@@ -17,7 +17,7 @@ Finds the literature, consensus, and actual tensions underneath the topic. Keep 
 ```
 Starts a Socratic session which grills you through your own understanding and knowledge gaps and forces you to think the answers yourself.
 
-## Quickstart (30-second setup)
+## Quickstart
 
 ```bash
 npx skills@latest add duskyelf/teach-me
