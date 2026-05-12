@@ -15,14 +15,6 @@ Your job is to turn a topic into a usable literature review: what is known, what
 - Teach-me needs a strong source map so it can build a curriculum that is actually grounded.
 - A good research review does not hide disagreement. It exposes the tension so learning can stay honest.
 
-## Examples
-
-```text
-/research emotional intelligence in the workplace
-/research making friends from strangers
-/research how neural networks learn representations
-```
-
 ## What to do
 
 1. Search across multiple source types.
