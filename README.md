@@ -4,6 +4,24 @@ A personal learning environment that questions your answers, not just answers yo
 
 Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt Pocock.
 
+## It's just Two skills
+
+```
+/research what creates a bluff-free README.md for a project targeted at engineers
+```
+Finds the literature, consensus, and actual tensions underneath the topic. Keep records of literature reviews.
+
+```
+/teach-me How to create friends at the garden @literature/psychology/social-intellegence-research.md
+```
+Starts a Socratic session which grills you through your own understanding and knowledge gaps and forces you to think the answers yourself.
+
+## Quickstart (30-second setup)
+
+```bash
+npx skills@latest add duskyelf/teach-me
+```
+
 ## "Tension" is the key to understanding
 
 Teaching is a hard skill. I taught hundreds of kids about computer science, and the hardest part wasn't explaining concepts -- it was getting them to sit with not-knowing.
@@ -18,18 +36,6 @@ Then I watched [Learn to Learn in 4hrs 54mins](https://www.youtube.com/watch?v=w
 It won't let you declare something "right" or "wrong" when there's no consensus -- it'll play Devil's Advocate until you admit other options have points as well.
 
 It Works best for people who want to gain the full picture by heart. You get the "aha" moments, you just gotta work your way there yourself.
-
-## It's just Two skills
-
-```
-/research what creates a bluff-free README.md for a project targeted at engineers
-```
-Finds the literature, consensus, and actual tensions underneath the topic. Keep records of literature reviews.
-
-```
-/teach-me How to create friends at the garden @literature/psychology/social-intellegence-research.md
-```
-Starts a Socratic session which grills you through your own understanding and knowledge gaps and forces you to think the answers yourself.
 
 ## What it's for
 
