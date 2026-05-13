@@ -119,34 +119,6 @@ Be honest about what you could not resolve.
 
 A good gap is not a failure. It is a signal for where teach-me should be careful, skeptical, or exploratory.
 
-## Example shape
-
-```markdown
-# Research: making friends from strangers
-
-## Summary
-Research suggests social connection usually depends on a mix of timing, self-disclosure, and reciprocal trust-building.
-
-## Findings
-1. **Vulnerability builds trust** — sharing personal information can increase closeness. [Source](url) [✓ consensus]
-2. **Not all disclosure helps** — timing and context decide whether sharing feels safe or awkward. [Source](url) [⚠ debated]
-3. **Reward and trust interact** — different models emphasize novelty, reward, or bonding hormones. [Source](url) [⚠ debated]
-
-## Tensions
-- **Vulnerability vs strategy**: Surface branch — both approaches are accepted. The real tension underneath: does strategic disclosure undermine the trust it tries to build? Or is the dichotomy false — is all disclosure strategic in some sense?
-- **Dopamine vs oxytocin framing**: Researchers disagree about which mechanism dominates in early bonding. Some argue dopamine (novelty seeking), others oxytocin (trust formation). No unified model yet exists — this is a genuine tension.
-
-## Sources
-- Kept: Smith (2023) — strong evidence for reciprocal vulnerability
-- Kept: Jones (2022) — useful counterpoint on strategic disclosure
-- Dropped: generic advice blogs — not rigorous enough
-
-## Gaps
-- Cross-cultural evidence is thin
-- Long-term relationship outcomes are under-studied
-```
-^ this is a dummy example with potentially fake data, should just be used as a template
-
 ## What's next
 
 When the review is saved, tell the user what to do next (briefly explain why), then give them a compact, copy-pasteable instruction:
