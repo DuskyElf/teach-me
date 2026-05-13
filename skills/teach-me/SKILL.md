@@ -33,7 +33,7 @@ The diary is a working document, not a transcript.
 # [filename]
 
 ## Starting Point
-[verbatim user input]
+[verbatim user input] [link to literature-review file]
 
 ## Topics
 - [ ] Root topic
