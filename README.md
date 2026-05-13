@@ -10,7 +10,7 @@ Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt 
 ```
 /literature-review [topic|question|subject]
 ```
-Finds the literature, consensus, and actual tensions underneath the topic. Keep records of literature reviews.
+Builds a source-backed literature review with consensus, tensions, and gaps. Use when you want academic grounding, or needs a high-quality source map before a learning session.
 
 ```
 /teach-me [topic|question] [research-paper|article|literature-review-file]
