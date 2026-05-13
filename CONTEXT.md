@@ -81,7 +81,3 @@ Mode transitions are explicit: "I'm shifting to [Mode]."
 2. **During Session**: Update topic levels and remarks at meaningful moments
 3. **Wrap-up**: Complete remarks, update "Current State", mark session INCOMPLETE or COMPLETE
 4. **Return**: Skill proactively suggests previous sessions on related subjects
-
-## Flagged Ambiguities
-
-
