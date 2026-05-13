@@ -99,6 +99,7 @@ Save to:
 
 Rules:
 - Auto-detect the subject from the topic.
+- Look at the directories already made in `literature/` and see if a subject directory is already made
 - If the subject is ambiguous, ask the user.
 - Use a clean filename: sanitized topic + `-review.md`.
 
