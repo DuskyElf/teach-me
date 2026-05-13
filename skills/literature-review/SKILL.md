@@ -123,4 +123,4 @@ A good gap is not a failure. It is a signal for where teach-me should be careful
 
 When the review is saved, tell the user what to do next (briefly explain why), then give them a compact, copy-pasteable instruction:
 
-> Start a new session, then: `/teach-me` + your question + the review at `literature/<subject>/<topic>-review.md`
+> Start a new session, then: `/teach-me` [question|topic] literature review: `literature/<subject>/<topic>-review.md`
