@@ -54,8 +54,8 @@ Write a review that teach-me can actually use.
 2-3 sentences that answer the question at a high level.
 
 ## Findings
-1. **Finding** — short explanation. [Source](url) [✓ consensus - not contested]
-2. **Finding** — short explanation. [Source](url) [⚠ has tension underneath - see Tensions section]
+1. **Finding** — short explanation. [source-title](url) [✓ consensus - not contested]
+2. **Finding** — short explanation. [source-title](url) [⚠ has tension underneath - see Tensions section]
 
 ## Tensions
 - **Point of contention**: View A says X. View B says Y. Current state: ...
