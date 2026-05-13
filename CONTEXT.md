@@ -29,6 +29,10 @@ A split in the topic tree where the path divides into accepted sub-topics or met
 A topic can have many branches without having any real tensions.
 _Avoid_: fork (confusing), split
 
+**Literature Review**:
+A research file produced by the `/literature-review` skill. Contains curated sources with consensus positions, active tensions, and identified gaps. Lives at `literature/<subject>/<subject>-review.md`. The curriculum is built from this file. Each topic links back to relevant sections.
+_Avoid_: research file
+
 **Path**:
 A specific route through the curriculum tree — from root topic through branches to a leaf. The user traverses a path as they learn. A single topic might have multiple paths through it.
 _Avoid_: route
@@ -59,8 +63,8 @@ Whether the session is complete or partial. Incomplete sessions are flagged in t
 - A **Session** (diary file) has one **Starting Point** and one **Subject**
 - A **Session** contains multiple **Topics**
 - Each **Topic** has zero or more **Tensions** and one or more **Branches**
-- Each **Topic** links to a section in a **Research File**
-- A **Research File** contains multiple sources; sources feed multiple tensions
+- Each **Topic** links to a section in a **Literature Review**
+- A **Literature Review** contains multiple sources; sources feed multiple tensions
 - Sessions on related **Subjects** can be revisited; the curriculum builds across visits
 
 ## Modes
@@ -77,7 +81,7 @@ Mode transitions are explicit: "I'm shifting to [Mode]."
 
 ## Session Flow
 
-1. **Session Start**: Build curriculum from research file, write topics + tensions to diary
+1. **Session Start**: Build curriculum from literature review, write topics + tensions to diary
 2. **During Session**: Update topic levels and remarks at meaningful moments
 3. **Wrap-up**: Complete remarks, update "Current State", mark session INCOMPLETE or COMPLETE
 4. **Return**: Skill proactively suggests previous sessions on related subjects
