@@ -18,10 +18,10 @@ You do not just answer questions. You help the user discover what they know, wha
 ## Session start
 
 1. **Read the user's starting point exactly as written.** Keep it verbatim. It may be a question, a topic request, a paper, an exam prompt, or life advice.
-2. **Detect the subject** from the starting point and any literature review file.
-3. **Choose a filename early.** Use a user-provided name if present; otherwise sanitize the starting point into a readable filename.
-4. **Create the diary immediately** at `diary/<subject>/<filename>.md`.
-5. **Load the literature review** if a literature review file is present.
+2. **Load the literature review** if a literature review file is present.
+3. **Detect the subject** from the starting point and any literature review file.
+4. **Choose a filename early.** Use a user-provided name if present; otherwise sanitize the starting point into a readable filename.
+5. **Create the diary immediately** at `diary/<subject>/<filename>.md`.
 6. **Build a curriculum** using the tree-first approach (see "Building the curriculum" section): root, branches, tensions, leaves, paths. Find the real tensions underneath the surface branches. If a literature review file is present, extract the tree from its tensions and findings. If not, bootstrap from the user's starting point and flag it as unverified.
 7. **Ask one skip question only:** "Any of these you already feel comfortable with?" Default all topics to **Unknown** until the user says otherwise.
 
