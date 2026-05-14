@@ -128,14 +128,6 @@ At each topic, ask:
 - What would a researcher on the other side argue?
 - Does this tension dissolve when you look closer, or is it genuinely unresolved?
 
-### What this looks like in practice
-
-Wrong:
-> "Topics: neural networks, backpropagation, loss functions"
-
-Right:
-> "Root: how do neural networks learn → Branches: representation learning, gradient descent, loss landscape → Tension: is the loss landscape itself the bottleneck to generalization, or is it the quality of the learned representations? → Leaves: questions at the edges of that tension"
-
 ### Curriculum growth (branches unfold)
 
 The curriculum starts with the literature review's tree. But as the session deepens:
@@ -187,7 +179,7 @@ Wrap up when the user says so, or gently offer it when the session naturally tir
 When the user continues a prior session, infer the diary file from context (user names it or matches the subject/folder structure). Then:
 
 1. **Load the diary.** Read it fully — starting point, current topic, remarks, levels.
-2. **Give the spoken summary.** Briefly recap what the user has covered: topics explored, where they landed on each, and what remains. Keep it tight — this is a handoff, not a replay.
+2. **Give the spoken summary.** Briefly recap what the user has covered: topics explored, where they landed on each, and what remains.
 3. **Plan the session.** Internally determine what to cover next, based on:
    - Current topic from the diary
    - Remarks (confusion, breakthroughs, flagged tensions)
@@ -198,4 +190,4 @@ When the user continues a prior session, infer the diary file from context (user
    - Match sources to the diary's current topic and remarks
    - Pre-load those sources as context for answering follow-ups
    If no literature-review file is found, proceed with the diary alone and acknowledge it in the spoken summary.
-5. **Resume.** Continue the session from the current topic — pick up the thread, don't restart.
+5. **Resume.** Continue the session from the current topic — pick up the thread.
