@@ -29,7 +29,7 @@ cd teach-me
 ```
 
 ## It's for; tldr
-- Find what's the state of consensus at the moment and where are the tensions
+- Finding what's the state of consensus at the moment and where the tensions are
 - Understanding a specific research paper or a broad concept intuitively
 - Probing your knowledge gaps before an exam
 
