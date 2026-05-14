@@ -52,7 +52,7 @@ The diary is a working document, not a transcript.
       - level: Unknown
 
 ## Current Topic
-[active branch or fork]
+[active branch or tension]
 
 ## Remarks
 - **Topic**: brief note about confusion, insight, bias, or breakthrough
