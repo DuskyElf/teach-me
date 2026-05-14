@@ -20,7 +20,12 @@ Starts a Socratic session which grills you through your own understanding and kn
 ## Quickstart
 
 ```bash
-npx skills@latest add duskyelf/teach-me
+npx skills add duskyelf/teach-me
+```
+**Or Manually:**
+```bash
+git clone https://github.com/DuskyElf/teach-me.git
+cd teach-me
 ```
 
 ## It's for; tldr
