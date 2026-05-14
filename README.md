@@ -3,7 +3,7 @@
 
 A personal learning environment that questions your answers, not just answers your questions. It helps you find your **unknown unknowns**, by tacking what you've mastered, what you're fuzzy on, and comparing it with discussions of experts.
 
-Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt Pocock.
+Inspired by the [/grill-me](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) and [/grill-with-docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md) skill by Matt Pocock.
 
 ## It's just Two skills
 
