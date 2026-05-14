@@ -1,4 +1,11 @@
 # teach-me
+
+> [!NOTE]
+> Recent updates brought major improvements in session opening and coherence. To get the latest version, run:
+> ```bash
+> npx skills update duskyelf/teach-me
+> ```
+
 [![skills.sh](https://skills.sh/b/duskyelf/teach-me)](https://skills.sh/duskyelf/teach-me)
 
 A personal learning environment that questions your answers, not just answers your questions. It helps you find your **unknown unknowns**, by tacking what you've mastered, what you're fuzzy on, and comparing it with discussions of experts.
