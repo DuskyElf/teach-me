@@ -1,7 +1,7 @@
 # teach-me
 [![skills.sh](https://skills.sh/b/duskyelf/teach-me)](https://skills.sh/duskyelf/teach-me)
 
-A personal learning environment that questions your answers, not just answers your questions. It helps you find your **unknown unknowns**, by tacking what you've mastered, what you're fuzzy on, and comparing it to where experts still disagree.
+A personal learning environment that questions your answers, not just answers your questions. It helps you find your **unknown unknowns**, by tacking what you've mastered, what you're fuzzy on, and comparing it with discussions of experts.
 
 Inspired by the [/grill-me](https://github.com/mattpocock/skills) skill by Matt Pocock.
 
