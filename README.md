@@ -23,26 +23,17 @@ Starts a Socratic session which grills you through your own understanding and kn
 npx skills@latest add duskyelf/teach-me
 ```
 
-## "Tension" is the key to understanding
-
-Teaching is a hard skill. I taught hundreds of kids about computer science, and the hardest part wasn't explaining concepts -- it was getting them to sit with not-knowing.
-
-Then I watched [Learn to Learn in 4hrs 54mins](https://www.youtube.com/watch?v=waGRF_ZApfI) by Justin Sung, and something clicked: **the discomfort zone is the learning zone.**
-
-`/teach-me` puts that into practice. It accesses your understanding by probing how much of two types of **"tension"** you can handle:
-
-- **Knowledge gap tension**: How uncomfortable does it feel when it points out you don't actually know what you thought you knew?
-- **Consensus tension**: Where do researchers actually disagree on the topic?
-
-It won't let you declare something "right" or "wrong" when there's no consensus -- it'll play Devil's Advocate until you admit other options have points as well.
-
-It Works best for people who want to gain the full picture by heart. You get the "aha" moments, you just gotta work your way there yourself.
-
-## What it's for
-
-- Understanding a research paper intuitively
-- Probing your knowledge gaps before an exam
-- Finding what you don't know you don't know
+## It's for; tldr
 - Find what's the state of consensus at the moment and where are the tensions
-- In Computer science, mathematics, physics, literature, social intelligence, emotional intelligence, financial literacy
+- Understanding a specific research paper or a broad concept intuitively
+- Probing your knowledge gaps before an exam
 
+## How it works
+
+Everything here runs on one idea: you don't learn by being told. You learn by being questioned.
+
+The skill starts with research — it finds what's actually contested in your topic, not just what's settled. Those contested points are called tensions. Then it asks you questions that sit right inside those tensions. It watches how you respond, tracks your level, and keeps a diary so you can continue later.
+
+The interesting part is how it measures progress. It's not about recall. It's about whether you can hold the tension without picking a side too early. Whether you notice when you're fuzzy. Whether you can notice your own bias when the questions press on it.
+
+[Read more...](docs/how-it-works.md)
