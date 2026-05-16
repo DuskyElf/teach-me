@@ -1,6 +1,7 @@
 ---
 name: literature-review
-description: A research companion that builds a source-backed literature review with consensus, tensions, and gaps. Use when user triggers /literature-review [topic], wants academic grounding, or needs a high-quality source map before a learning session.
+description: A research companion that builds a source-backed literature review with consensus, tensions, and gaps. Use when user triggers /literature-review [topic|question], wants academic grounding, or needs a high-quality source map before a learning session.
+argument-hint: "<topic|question|subject>"
 ---
 
 # literature-review

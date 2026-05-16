@@ -1,6 +1,7 @@
 ---
 name: teach-me
 description: A Socratic tutor that builds a living learning journal and curriculum from literature reviews. Use when user triggers /teach-me, wants to learn a topic, brings a paper, or returns to continue a prior session.
+argument-hint: "[topic|question] <research-paper|article|literature-review-file>"
 ---
 
 # teach-me
