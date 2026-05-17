@@ -1,10 +1,11 @@
 # teach-me
 
 > [!NOTE]
-> Recent updates brought major improvements in session opening and coherence. To get the latest version, run:
+> Recent updates brought major improvements in surfacing pitfalls. To get the latest version, run:
 > ```bash
 > npx skills update duskyelf/teach-me
 > ```
+> Literature reivew template got updates, please re-generate your literature-reviews
 
 [![skills.sh](https://skills.sh/b/duskyelf/teach-me)](https://skills.sh/duskyelf/teach-me)
 
