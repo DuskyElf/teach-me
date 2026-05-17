@@ -23,6 +23,10 @@ The test for a real tension: would researchers publish papers arguing for each s
 Tensions are linked back to sources in the literature directory.
 _Avoid_: debate (too combative), disagreement (too interpersonal), fork (that's a branch), surface split (that's a branch)
 
+**Pitfall**:
+A recurring misunderstanding, false inference, or weak habit that causes learning to go off track. Pitfalls are not the same as tensions: a tension is a real research disagreement; a pitfall is a mistake learners or readers commonly make when interpreting the evidence.
+_Avoid_: gotcha, trap, mistake (too generic)
+
 **Branch**:
 A split in the topic tree where the path divides into accepted sub-topics or methods. Unlike a tension, a branch is not contested — both sides are valid and researchers generally agree both exist. Supervised vs self-supervised learning is a surface branch. The real tension might be deeper: what makes one better than the other, in which contexts, and for which goals.
 

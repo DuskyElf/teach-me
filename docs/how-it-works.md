@@ -4,11 +4,12 @@ The whole thing runs on one idea: you don't learn by being told. You learn by be
 
 ## Two Skills, One Flow
 
-`/literature-review` goes first. It searches across Semantic Scholar, web articles, videos, and Wikipedia to build a map of your topic: what consensus exists, where researchers actually disagree, and what's still unclear. When it saves its literature review, it follows a shape `/teach-me` can use directly:
+`/literature-review` goes first. It searches across Semantic Scholar, web articles, videos, and Wikipedia to build a map of your topic: what consensus exists, what common pitfalls to avoid, where researchers actually disagree, and what's still unclear. When it saves its literature review, it follows a shape `/teach-me` can use directly:
 
-- **Summary**: 2-3 sentences that answer the question at a high level
-- **Findings**: each finding tagged as consensus or having tension underneath
+- **Summary**: 2-3 sentences that answer the question at a high level, including common pitfalls
+- **Findings**: each finding tagged as consensus, tension, or pitfall surfaced
 - **Tensions**: the contested points, with what each side argues
+- **Common misunderstandings**: recurring pitfalls, false inferences, and terminology drift
 - **Sources**: which papers were kept and why, which were dropped
 - **Gaps**: what's still unclear or weakly supported
 
@@ -41,14 +42,15 @@ The curriculum isn't a list of topics. It's a tree built by extracting from the 
 - **Root** — your starting point
 - **Branches** — surface splits from the findings (researchers agree both exist)
 - **Tensions** — the contested points underneath the branches, drawn from the review's Tensions section
+- **Pitfalls** — common misunderstandings and weak inferences the review explicitly flags
 - **Leaves** — fine-grained questions at the edges
 - **Paths** — a specific route from root to a leaf
 
-The literature review doesn't hand over questions. It hands over findings tagged as consensus or tension-underneath. Teach-me extracts those into a tree: each finding becomes a branch, each flagged tension surfaces underneath it, and the tree grows as you explore. When you reach the end of a path, the skill offers to explore a sibling branch or go deeper. The tree is never done — it unfolds as you learn.
+The literature review doesn't hand over questions. It hands over findings tagged as consensus, tension-underneath, or pitfall surfaced. Teach-me extracts those into a tree: each finding becomes a branch, each flagged tension surfaces underneath it, and each surfaced pitfall becomes something the tutor actively probes. The tree grows as you explore. When you reach the end of a path, the skill offers to explore a sibling branch or go deeper. The tree is never done — it unfolds as you learn.
 
 ## Levels
 
-The skill tracks your understanding against how you handle tension, not just recall or self-report.
+The skill tracks your understanding against how you handle tension and pitfalls, not just recall or self-report.
 
 **Unknown**: You haven't met this topic yet.
 
@@ -87,7 +89,7 @@ The tutor announces shifts: "I'm shifting to Curious Guide." You can also trigge
 
 The tutor also watches for fuzzy language — when you use a word in a way that shifts meaning, it catches it and names it. That's not pedantic, it's a gift. It's the moment where you realize you've been reasoning without anchors.
 
-The tutor writes remarks at meaningful moments — breakthroughs, confusions, biases you noticed. Not a transcript, just the useful parts.
+The tutor writes remarks at meaningful moments — breakthroughs, confusions, biases, and surfaced pitfalls. Not a transcript, just the useful parts.
 
 You're allowed to say "I don't know." A partial session is still a successful session. If you're exhausted, the tutor lets you stop.
 
@@ -97,7 +99,7 @@ You're allowed to say "I don't know." A partial session is still a successful se
 
 ## The Diary
 
-Everything lives in a diary file. It captures your starting point, the topics you explored, your level on each, the tensions you engaged with, and any remarks from moments of confusion or breakthrough. It grows across visits — the tree you start building in one session is still there when you return.
+Everything lives in a diary file. It captures your starting point, the topics you explored, your level on each, the tensions and pitfalls you engaged with, and any remarks from moments of confusion or breakthrough. It grows across visits — the tree you start building in one session is still there when you return.
 
 ```markdown
 # [filename]
@@ -114,13 +116,15 @@ Everything lives in a diary file. It captures your starting point, the topics yo
     - [ ] Sub-topic B (has tension)
       - tensions:
         - [ ] Real tension: what researchers disagree on
+      - pitfalls:
+        - [ ] Common pitfall: what learners often get wrong
       - level: Unknown
 
 ## Current Topic
 [active branch or tension]
 
 ## Remarks
-- **Topic**: brief note about confusion, insight, bias, or breakthrough
+- **Topic**: brief note about confusion, insight, bias, breakthrough, or a surfaced pitfall
 
 ## Current State
 INCOMPLETE | COMPLETE
